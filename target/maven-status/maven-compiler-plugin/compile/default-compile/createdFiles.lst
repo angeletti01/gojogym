@@ -1,0 +1,4 @@
+com\gojo\entity\User.class
+com\gojo\GojoGymApplication.class
+com\gojo\ServletInitializer.class
+com\gojo\repository\UserRepository.class
